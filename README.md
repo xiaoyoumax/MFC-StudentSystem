@@ -27,34 +27,34 @@
 
 - 姓名查找：
 
-  <img src="https://github.com/xiaoyoumax/Images/blob/main/StudentSystem/%E5%9B%BE%E7%89%875.png" alt="img" style="zoom:50%;" />
+  <img src="https://github.com/xiaoyoumax/MFC-StudentSystem/blob/main/img/%E5%9B%BE%E7%89%875.png" alt="img" style="zoom:50%;" />
 
-  <img src="https://github.com/xiaoyoumax/Images/blob/main/StudentSystem/%E5%9B%BE%E7%89%876.png" alt="img" style="zoom:50%;" />
+  <img src="https://github.com/xiaoyoumax/MFC-StudentSystem/blob/main/img/%E5%9B%BE%E7%89%876.png" alt="img" style="zoom:50%;" />
 
 - 学号查找：
 
-  <img src="https://github.com/xiaoyoumax/Images/blob/main/StudentSystem/%E5%9B%BE%E7%89%877.png" alt="img" style="zoom:50%;" />
+  <img src="https://github.com/xiaoyoumax/MFC-StudentSystem/blob/main/img/%E5%9B%BE%E7%89%877.png" alt="img" style="zoom:50%;" />
 
-  <img src="https://github.com/xiaoyoumax/Images/blob/main/StudentSystem/%E5%9B%BE%E7%89%878.png" alt="img" style="zoom:50%;" />
+  <img src="https://github.com/xiaoyoumax/MFC-StudentSystem/blob/main/img/%E5%9B%BE%E7%89%878.png" alt="img" style="zoom:50%;" />
 
 5. 模糊查找：
 
-<img src="https://github.com/xiaoyoumax/Images/blob/main/StudentSystem/%E5%9B%BE%E7%89%879.png" alt="img" style="zoom:50%;" />
+<img src="https://github.com/xiaoyoumax/MFC-StudentSystem/blob/main/img/%E5%9B%BE%E7%89%879.png" alt="img" style="zoom:50%;" />
 
-<img src="https://github.com/xiaoyoumax/Images/blob/main/StudentSystem/%E5%9B%BE%E7%89%8710.png" alt="img" style="zoom:50%;" />
+<img src="https://github.com/xiaoyoumax/MFC-StudentSystem/blob/main/img/%E5%9B%BE%E7%89%8710.png" alt="img" style="zoom:50%;" />
 
 6. 图表分析：
 
 - 直方图：
 
-  <img src="https://github.com/xiaoyoumax/Images/blob/main/StudentSystem/%E5%9B%BE%E7%89%8711.png" alt="img" style="zoom:67%;" />
+  <img src="https://github.com/xiaoyoumax/MFC-StudentSystem/blob/main/img/%E5%9B%BE%E7%89%8711.png" alt="img" style="zoom:67%;" />
 
 - 饼形图：
 
-<img src="https://github.com/xiaoyoumax/Images/blob/main/StudentSystem/%E5%9B%BE%E7%89%8712.png" alt="img" style="zoom:67%;" />
+<img src="https://github.com/xiaoyoumax/MFC-StudentSystem/blob/main/img/%E5%9B%BE%E7%89%8712.png" alt="img" style="zoom:67%;" />
 
 - 折线图：
 
   
 
-<img src="https://github.com/xiaoyoumax/Images/blob/main/StudentSystem/%E5%9B%BE%E7%89%8713.png" alt="img" style="zoom:67%;" />
+<img src="https://github.com/xiaoyoumax/MFC-StudentSystem/blob/main/img/%E5%9B%BE%E7%89%8713.png" alt="img" style="zoom:67%;" />
